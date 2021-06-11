@@ -1,0 +1,10 @@
+.post-button {
+  background-color: #9d57ff;
+  border-radius: 10px;
+  color: white;
+  font-weight: bold;
+}
+
+.post-button:hover {
+  background-color: #2b547e;
+}
