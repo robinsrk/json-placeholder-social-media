@@ -10,6 +10,6 @@ This is a simple social media like website where anyone can see posts, delete po
 - [X] Apply responsive styles to the list (should work on Desktop and Mobile)
 - [X] Add option to delete the post
 *** Create post
-- [x] Create a form to add a new post (UserId: 1 by default)
+- [X] Create a form to add a new post (UserId: 1 by default)
 *** Delete post
 - [X] Add a column in the post list with a link to delete the post
