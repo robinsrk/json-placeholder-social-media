@@ -4,3 +4,12 @@ This is a simple social media like website where anyone can see posts, delete po
 ** Links
 1. [[https://partek-job-task.netlify.app/][Live]]
 2. [[https://github.com/robinsrk/json-placeholder-social-media][Github]]
+** Tasks
+*** List Posts
+- [X] Display the post
+- [X] Apply responsive styles to the list (should work on Desktop and Mobile)
+- [X] Add option to delete the post
+*** Create post
+- [X] Create a form to add a new post (UserId: 1 by default)
+*** Delete post
+- [X] Add a column in the post list with a link to delete the post
