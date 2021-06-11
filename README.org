@@ -1,3 +1,6 @@
 * Json Placeholder Social Media
 ** About
 This is a simple social media like website where anyone can see posts, delete posts and add some posts.
+** Links
+1. [[https://partek-job-task.netlify.app/][Live]]
+2. [[https://github.com/robinsrk/json-placeholder-social-media][Github]]
