@@ -12,7 +12,6 @@ const Home = () => {
       .then((data) => setPosts(data));
   }, []);
 
-  console.log(posts);
   return (
     <div className="container">
       <h1 className="text-center p-5">JsonPlaceholder Socail Media</h1>

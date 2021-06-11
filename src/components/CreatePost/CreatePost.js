@@ -18,7 +18,6 @@ const CreatePost = () => {
         if (success) {
           alert("Post added successfully.");
         }
-        console.log(success);
       });
   };
   return (

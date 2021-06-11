@@ -9,10 +9,7 @@ import {
 } from "mdbreact";
 
 const Post = ({ post, key }) => {
-  console.log(post);
   const DeletePost = (id) => {
-    console.log(id);
-
     fetch(`https://jsonplaceholder.typicode.com/posts/${id}`, {
       method: "DELETE",
     })
